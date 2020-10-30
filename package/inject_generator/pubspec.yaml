@@ -16,7 +16,7 @@ dependencies:
   collection:
   dart_style:
   logging:
-  meta:
+  meta: ^1.1.8
   path:
   quiver:
   stack_trace:
